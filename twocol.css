@@ -1,0 +1,30 @@
+body {
+    background-color: #000000   ;
+  }
+p{
+    color:white;
+}
+p1{
+    color:#FFC300;
+}
+a{
+    color:black; 
+}
+h1{
+    color: #FFC300 
+}
+h2{
+    color: #FFC300 
+}
+h3{
+    color: #FFC300 
+}
+ul{
+    color:white;
+}
+td{
+    color:white;
+}
+table{
+    margin:150px 100px 100px 350px;
+}
